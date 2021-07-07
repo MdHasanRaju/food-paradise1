@@ -80,6 +80,7 @@ a {
 }
 .recipie-section h2{
     text-align: center;
+    padding: 20px 0px;
     font-size: 28px;
 }
 .recipie-section p{
@@ -106,6 +107,7 @@ a {
 .recipie-features h3{
     text-align: center;
     font-size: 26px;
+    padding: 12px 0px;
 }
 .recipie-features p{
     text-align: center;
@@ -130,16 +132,13 @@ a {
 }
 .social-counts-half-width{
     width: 37.33%;
-    padding: 20px 14%;
-
-    
-   
+    padding: 40px 14%;
 }
 .social-counts-half-width h1{
     font-size: 40px;
 }
 .social-counts-half-width p{
-    margin-top: -5px;
+    padding: 5px 0px;
 }
 
 /* footer-section */
