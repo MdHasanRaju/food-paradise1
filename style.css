@@ -15,7 +15,7 @@
 .half-width h1{
     font-size: 50px;
     font-weight: 600;
-    margin-top: 50px;
+    margin-top: 60px;
 }
 .color-text{
   color: #dd3535;
@@ -54,7 +54,9 @@ a {
 .about-half-width img{
     width: 80%;
 }
-.about-half-width h2{}
+.about-half-width h2{
+    margin-bottom: 20px;
+}
 .about-half-width p{
      font-size: 22px;
 }
@@ -145,8 +147,8 @@ a {
 footer{
     text-align: center;
     background-color: #070301;
-    padding-top: 5px;
-    padding-bottom: 45px
+    padding-top: 30px;
+    padding-bottom: 60px
 }
 footer h1{
     font-size: 43px;
@@ -155,6 +157,7 @@ footer h1{
 footer p{
     font-size: 24px;
     margin-top: -6px;
+    padding-top: 18px;
     color: white;
 }
 .footer-span-color{
